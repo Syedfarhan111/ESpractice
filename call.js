@@ -4,7 +4,7 @@ function callme(){
 
 callme();
 
-function  calling(){
+function  calling(){--                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
     console.log("the ECMA Scriptind is Start");
 
 }
@@ -13,6 +13,6 @@ calling();
 calling();
 calling();
 calling();
-calling();
+
 
  
