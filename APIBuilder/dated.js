@@ -1,0 +1,3 @@
+exports.dated =()=>{
+return time()
+}
