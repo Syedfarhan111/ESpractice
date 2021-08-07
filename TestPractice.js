@@ -1,10 +1,10 @@
-const MapAssignment = (data) =>
-  data.map(
-    (item) =>
-      `i am planning to do ${item.course} from  ${item.institute} soituated at ${item.city} having contact us ${item.moblieNo}`
-  ); //we are not pressing Console here
+const mapping = (hii) =>
+  hii.map(
+    (me) =>
+      `ksjfhjzshvhvjhvj${me.course}skjjhshlhjshhjhkj${me.institute}sgsegsg${me.moblieNo}gdsdg${me.city}kufukfyukfkuy`
+  );
 console.log(
-  MapAssignment([
+  mapping([
     {
       course: "PDAC",
       institute: "PickupBiz",

@@ -1,7 +1,7 @@
-// const oddnumfinder = (num) => num % 2 === 1 ;
+const oddnumfinder = (num) => (num % 2 === 0 ?);
 
-// console.log(oddnumfinder(2442428));
+console.log(oddnumfinder(8));
 
-const divisible = (num) => (num % 7 == 0 ? "even":"odd" );
+// const divisible = (num) => (num % 2 == 0 ? `"even true" : "odd false");
 
-console.log(divisible(81));
+// console.log(divisible(81));
