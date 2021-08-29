@@ -7,7 +7,7 @@
 // palendrome("madam");
 
 const palendromeOptm = (str) => {
-  return str === str.split("").reverse().join(o"");
+  return str === str.split("").reverse().join("");
 };
 
 console.log(palendromeOptm("7870000"));
