@@ -1,3 +1,0 @@
-exports.dated =()=>{
-return time()
-}
