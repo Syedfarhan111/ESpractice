@@ -1,0 +1,1 @@
+const filteredData = objNest.filteredData.map((item)=>item.name)
